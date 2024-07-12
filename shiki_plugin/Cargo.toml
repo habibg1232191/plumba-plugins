@@ -1,0 +1,21 @@
+[package]
+name = "shiki_plugin"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+plumba-plugins = { path = ".." }
+chrono = { version = "0.4.38", features = ["serde"] }
+serde = { version = "1.0.203", features = ["derive"] }
+serde_json = { version = "1.0.120", features = [] }
+tokio = { version = "1.38.0", features = ["full"] }
+isahc = { version = "1.7.2", features = ["serde", "json"] }
+futures = { version = "0.3.30", features = ["async-await"] }
+async-trait.workspace = true
+url = "2.5.2"
+
+[build]
+rustflags = ["-C", "prefer-dynamic", "-C", "rpath"]

@@ -1,0 +1,11 @@
+/home/lolkapm/RustroverProjects/title-plugin-system/shiki_plugin/target/debug/deps/libtinyvec-6755b2cf3b23acb2.rmeta: /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs
+
+/home/lolkapm/RustroverProjects/title-plugin-system/shiki_plugin/target/debug/deps/tinyvec-6755b2cf3b23acb2.d: /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs /home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs
+
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs:
+/home/lolkapm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs:
